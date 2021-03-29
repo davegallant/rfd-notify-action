@@ -31,4 +31,4 @@ expressions:
   - anker
   # graphics cards
   - gtx.?16[56]0
-  - rx.?5[6789]0
+  - rx.?5[56789]
