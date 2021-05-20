@@ -32,3 +32,4 @@ expressions:
   # graphics cards
   - gtx.?16[56]0
   - rx.?5[56789]
+  - wyze
